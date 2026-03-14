@@ -9,4 +9,4 @@ A high-performance, minimalist personal portfolio designed to showcase my expert
 ---
 
 ## 🌐 Live Deployment
-**View the live site here:** [https://relharrati.github.io/your-repo-name/](https://relharrati.github.io/)
+**View the live site here:** [https://relharrati.github.io/portfolio](https://relharrati.github.io/portfolio/)
